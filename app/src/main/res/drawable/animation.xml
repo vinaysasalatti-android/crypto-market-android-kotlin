@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <!--<item android:drawable="@drawable/btc" android:duration="5" />-->
+    <item android:drawable="@drawable/xrp" android:duration="5" />
+    <!--<item android:drawable="@drawable/eth" android:duration="50" />-->
+    <!--<rotate-->
+        <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:pivotX="50%"-->
+        <!--android:pivotY="50%"-->
+        <!--android:fromDegrees="330"-->
+        <!--android:toDegrees="360"-->
+        <!--android:repeatCount="1" />-->
+
+</animation-list>
